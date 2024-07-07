@@ -44,13 +44,13 @@ const info = [
     icon: <FaLinkedin />,
     title: "LinkedIn",
     description_url: "https://www.linkedin.com/in/xenshreyas/",
-    description: "LinkedIn URL",
+    description: "linkedin.com/xenshreyas",
   },
   {
     icon: <FaGithub />,
     title: "GitHub",
     description_url: "https://github.com/xenshreyas",
-    description: "GitHub URL",
+    description: "github.com/xenshreyas",
   },
 ];
 
