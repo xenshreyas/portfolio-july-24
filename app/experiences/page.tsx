@@ -42,7 +42,7 @@ import {
 const skills = {
   title: "Skills",
   description:
-    "Some of the technologies I've worked with, sorted by APIs, programming languages, frameworks and developer tools.",
+    "Some of the technologies I&apos;'ve worked with, sorted by APIs, programming languages, frameworks and developer tools.",
   items: [
     // APIs
     {
@@ -200,8 +200,8 @@ const about = {
   title: "About Me",
   description: "im just a guy that likes to build cool stuff and game",
   texts: [
-    "Exploring what I like in tech. I've been a founding developer at a YCombinator backed startup (Gumloop), developed Discord bots, Minecraft mods, Machine Learning algorithms, Cloud tools and more.",
-    "Recently, I've been exploring the world of generative AI, and am currently building a personal assistant, Zolyra.",
+    "Exploring what I like in tech. I&apos;ve been a founding developer at a YCombinator backed startup (Gumloop), developed Discord bots, Minecraft mods, Machine Learning algorithms, Cloud tools and more.",
+    "Recently, I&apos;ve been exploring the world of generative AI, and am currently building a personal assistant, Zolyra.",
     "In my spare time, I like to go to the gym, listen to moody and lofi hip-hop, and play Rocket League (Diamond III in Duos) and The Legend of Zelda games.",
   ],
 };
