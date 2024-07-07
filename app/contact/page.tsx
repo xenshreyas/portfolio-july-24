@@ -116,7 +116,9 @@ const Contact = () => {
               className="flex flex-col gap-6 p-10 bg-[#27272c] rounded-xl"
             >
               <h3 className="text-4xl text-accent">Piqued your interest?</h3>
-              <p className="text-white/60">Lorem Ipsum</p>
+              <p className="text-white/60">
+                Connect with me and let&apos;s get building!
+              </p>
               <div className="grid grid-cols-1 gap-6">
                 <Input
                   type="text"
