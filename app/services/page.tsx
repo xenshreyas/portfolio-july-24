@@ -1,6 +1,6 @@
 "use client";
 
-import { BsArrowDownRight } from "React-icons/bs";
+import { BsArrowDownRight } from "react-icons/bs";
 import { motion } from "framer-motion";
 import Link from "next/link";
 
