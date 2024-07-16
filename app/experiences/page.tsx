@@ -301,13 +301,13 @@ const Experiences = () => {
               </div>
               <div className="my-12 flex">
                 <div className="h-[60vh] overflow-y-auto pb-8 w-full border border-white/50 rounded-lg relative">
-                  <div className="sticky left-0 top-0 mb-12 flex flex-row justify-between space-x-2 z-10 bg-gray-700 p-4 rounded-t-lg">
+                  <div className="sticky left-0 top-0 mb-12 flex flex-row justify-between space-x-2 z-10 bg-gray-700/30 backdrop-blur-md p-4 rounded-t-lg border border-white/10">
                     <div className="flex flex-row space-x-2">
                       <div className="w-3 h-3 bg-red-500 rounded-full"></div>
                       <div className="w-3 h-3 bg-yellow-500 rounded-full"></div>
                       <div className="w-3 h-3 bg-green-500 rounded-full"></div>
                     </div>
-                    <div className="h-5 bg-gray-500 text-white px-4 rounded-full text-sm opacity-90">
+                    <div className="h-5 bg-gray-500/50 backdrop-blur-sm text-white px-4 rounded-full text-sm opacity-90">
                       Experiences
                     </div>
                   </div>

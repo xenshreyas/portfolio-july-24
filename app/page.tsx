@@ -42,7 +42,7 @@ const Home = () => {
               <Button
                 variant="outline"
                 size="lg"
-                className="uppercase flex items-center gap-2"
+                className="uppercase flex items-center gap-2 bg-white/10 backdrop-blur-sm border border-white/20 text-white hover:bg-white/20 transition-all duration-300"
                 onClick={handleDownload}
               >
                 <span>Download Resume</span>
@@ -51,7 +51,7 @@ const Home = () => {
               <div className="mb-8 xl:mb-0">
                 <Socials
                   containerStyles="flex gap-6"
-                  iconStyles="w-9 h-9 border border-accent rounded-full flex justify-center items-center text-accent text-base hover:bg-accent hover:text-primary hover:transition-all duration-500"
+                  iconStyles="w-9 h-9 bg-white/10 backdrop-blur-sm border border-white/20 rounded-full flex justify-center items-center text-white text-base hover:bg-white/20 hover:border-white/40 transition-all duration-300"
                 />
               </div>
             </div>
