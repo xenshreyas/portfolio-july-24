@@ -200,7 +200,7 @@ const about = {
   title: "About Me",
   description: "im just a guy that likes to build cool stuff and game",
   texts: [
-    "Exploring what I like in tech. I\u2019ve been a founding developer at a YCombinator backed startup (Gumloop), developed Discord bots, Minecraft mods, Machine Learning algorithms, Cloud tools and more.",
+    "Exploring what I like in tech. I\u2019ve been a developer at a YCombinator backed startup (Gumloop), developed Discord bots, Minecraft mods, Machine Learning algorithms, Cloud tools and more.",
     "Recently, I\u2019ve been exploring the world of generative AI, and am currently building a personal assistant, Zolyra.",
     "In my spare time, I like to go to the gym, listen to moody and lofi hip-hop, and play Rocket League (Diamond III in Duos) and The Legend of Zelda games.",
   ],
@@ -230,7 +230,7 @@ const experiences = {
       duration: "January 2024 - Present",
       iconBg: "#f9a8d4",
       icon: "/images/gumloop.png",
-      title: "Founding Developer",
+      title: "Software Developer",
       points: [
         "Developed an AI SaaS tool to allow users to create custom enterprise software with no code, achieving $40,000+ Monthly Recurring Revenue during the YCombinator batch, by shipping 270+ features.",
         "Integrated with 25+ providers including Gemini, OpenAI, Slack, Notion, Airtable and LinkedIn using Python & OAuth2.0, allowing users to link workspaces, CMS, and AI services to build comprehensive workflows.",
